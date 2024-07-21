@@ -1,0 +1,16 @@
+com.example.ecommerce_app-jetified-core-ktx-1.12.0-0 C:\Users\mohan\.gradle\caches\transforms-3\1e00891d0dadee5dc1736b9a9b82aa23\transformed\jetified-core-ktx-1.12.0\res
+com.example.ecommerce_app-jetified-window-1.0.0-beta04-1 C:\Users\mohan\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.ecommerce_app-jetified-annotation-experimental-1.3.0-2 C:\Users\mohan\.gradle\caches\transforms-3\937d6edc8055f6701a18eeac1a67afe6\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.ecommerce_app-lifecycle-runtime-2.3.1-3 C:\Users\mohan\.gradle\caches\transforms-3\9a249567dcb8025899915ed9a2426636\transformed\lifecycle-runtime-2.3.1\res
+com.example.ecommerce_app-core-1.12.0-4 C:\Users\mohan\.gradle\caches\transforms-3\a027ceacc87e80e18f779d4fcf90e6bf\transformed\core-1.12.0\res
+com.example.ecommerce_app-jetified-window-java-1.0.0-beta04-5 C:\Users\mohan\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ecommerce_app-main-6 C:\Users\mohan\Downloads\E-Commerce-App\android\app\src\main\res
+com.example.ecommerce_app-release-7 C:\Users\mohan\Downloads\E-Commerce-App\android\app\src\release\res
+com.example.ecommerce_app-pngs-8 C:\Users\mohan\Downloads\E-Commerce-App\build\app\generated\res\pngs\release
+com.example.ecommerce_app-resValues-9 C:\Users\mohan\Downloads\E-Commerce-App\build\app\generated\res\resValues\release
+com.example.ecommerce_app-rs-10 C:\Users\mohan\Downloads\E-Commerce-App\build\app\generated\res\rs\release
+com.example.ecommerce_app-mergeReleaseResources-11 C:\Users\mohan\Downloads\E-Commerce-App\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.ecommerce_app-mergeReleaseResources-12 C:\Users\mohan\Downloads\E-Commerce-App\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.ecommerce_app-merged_res-13 C:\Users\mohan\Downloads\E-Commerce-App\build\app\intermediates\merged_res\release
+com.example.ecommerce_app-packaged_res-14 C:\Users\mohan\Downloads\E-Commerce-App\build\path_provider_android\intermediates\packaged_res\release
+com.example.ecommerce_app-packaged_res-15 C:\Users\mohan\Downloads\E-Commerce-App\build\share_plus\intermediates\packaged_res\release
